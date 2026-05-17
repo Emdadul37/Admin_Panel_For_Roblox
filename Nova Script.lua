@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Emdadul37/Admin_Panel_For_Roblox/refs/heads/main/Phantom%20Key%20SYS%20(Obfuscated).lua"))()
+loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/1981dfb3b6d94436"))()
